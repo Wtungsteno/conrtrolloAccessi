@@ -1,0 +1,6 @@
+@conrtrolloAccessi_HostAddress = http://localhost:5206
+
+GET {{conrtrolloAccessi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
